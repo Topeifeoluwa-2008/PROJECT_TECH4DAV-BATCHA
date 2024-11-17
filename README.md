@@ -77,7 +77,6 @@ a more focused analysis on specific demographics, supporting targeted health and
 
 ![tech dev8](https://github.com/user-attachments/assets/d0ab93a6-c05f-443f-901c-9c33c802f29a)
 
-
 ![tech dev9](https://github.com/user-attachments/assets/a132289e-ecf0-42d8-852e-7d99e649fe68)
 
 
@@ -90,8 +89,7 @@ such as Average sleep duration, Heart Rate, Bp Category
 *   Sleep Quality by Stress Level and Gender: Higher stress levels correlate with lower sleep quality, 
 with males generally experiencing lower sleep quality and higher stress levels compared to females.
 *   Age and Sleep Quality: Older adults report higher sleep quality (7.5hours) compared to middle-aged (7.3hours) and younger adults (6.16hours).
-*   BMI and Sleep Quality: The pie chart reveals that the majority of individuals are of normal weight, and 
-this group also tends to report higher sleep quality compared to overweight and obese categories.
+*   BMI and Sleep Quality: The pie chart reveals that the majority of individuals are of normal weight, and this group also tends to report higher sleep quality compared to overweight and obese categories.
 Blood Pressure and Sleep: Sleep quality varies slightly across BP categories, with those in the "Normal Weight" category reporting the highest sleep quality (7.57).
 This dashboard can guide occupational health interventions by identifying a risk groups and patterns associated with lifestyle-related health issues.
  
