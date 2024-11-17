@@ -12,7 +12,7 @@ will illuminate the often-hidden impact of our lifestyles on this critical compo
 Good sleep is fundamental to health and well-being, making this study a valuable resource for individuals and policymakers alike in understanding how healthier lifestyle choices can lead to better sleep.
 This project aligns with SDG Goal 3 – Good Health and Well-being, as it highlights how informed lifestyle adjustments can enhance sleep quality, supporting overall health and public well-being.
 
-## [Dataset Overview](Dataset Overview)
+## [DataSet Overview](DataSetOverview)
 Dataset includes 374 individuals with detailed information on sleep patterns and various lifestyle factors.
 
 ## Problem Statement
