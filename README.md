@@ -1,6 +1,6 @@
-# PROJECT_TECH4DAV-BATCHA
+# PROJECT_TECH4DEV-BATCHA
 
-# Analyzing the Impact of Lifestyle Factors on Sleep Quality and Duration In Support of SDG 3: Good Health & Well-being
+# Analyzing the Impact of Lifestyle Factors on Sleep Quality and Duration In Support of SDG Goal 3: Good Health & Well-being
 
 ## [Introduction](Introduction)
 In a world where work demands, physical inactivity, and high stress are the norm, how much do our daily choices affect the quality and length of our sleep? 
@@ -12,12 +12,11 @@ will illuminate the often-hidden impact of our lifestyles on this critical compo
 Good sleep is fundamental to health and well-being, making this study a valuable resource for individuals and policymakers alike in understanding how healthier lifestyle choices can lead to better sleep.
 This project aligns with SDG Goal 3 – Good Health and Well-being, as it highlights how informed lifestyle adjustments can enhance sleep quality, supporting overall health and public well-being.
 
-## Problem Statement
-Many individuals struggle to maintain optimal health due to factors like high stress levels, inadequate sleep, and sedentary lifestyles, which can lead to issues such as obesity, hypertension, and sleep disorders. This dataset provides an opportunity to examine the relationships between these lifestyle factors and health indicators to identify common patterns and at-risk groups. The analysis will focus on identifying correlations among sleep quality, physical activity, stress, BMI, and health metrics (e.g., blood pressure and heart rate) to provide recommendations that can improve overall well-being.
-
-
 ## [Dataset Overview](Dataset Overview)
 Dataset includes 374 individuals with detailed information on sleep patterns and various lifestyle factors.
+
+## Problem Statement
+Many individuals struggle to maintain optimal health due to factors like high stress levels, inadequate sleep, and sedentary lifestyles, which can lead to issues such as obesity, hypertension, and sleep disorders. This dataset provides an opportunity to examine the relationships between these lifestyle factors and health indicators to identify common patterns and at-risk groups. The analysis will focus on identifying correlations among sleep quality, physical activity, stress levels, BMI, and health metrics (e.g., blood pressure and heart rate) to provide recommendations that can improve overall well-being.
 
 ## Data Sources
 
@@ -25,25 +24,25 @@ The dataset used in this analysis is derived from Kaggle, which was provided in 
 
 ## Key Variable Used
 1. Sleep Duration & Quality: Quantitative measures capturing how long and well each participant sleeps.
-2. Lifestyle Indicators:
+2. Lifestyle Indicators: To capture Quality of Sleep and Daily Steps
 3. Physical Activity Level: Range from low to high, allowing analysis of activity’s effect on sleep.
 4. Occupation Type: Various job roles to explore if specific professions impact sleep quality.
-BMI Category: Weight classifications (e.g., normal, overweight, obese) for studying BMI’s relation to sleep.
-Stress Levels: Measures of daily stress, offering insights into stress-sleep relationships.
+5. BMI Category: Weight classifications (e.g., normal weight, overweight, obese) for studying BMI’s relation to sleep.
+6. Stress Levels: Measures of daily stress, offering insights into stress-sleep relationships.
 
 ## Data Transformation
 To ensure that the data is suitable for analysis, the following transformation steps were taken:
 -   Data Cleaning: To Check for any duplicate records, especially among fields such as occupation and demographic details, and remove any redundant entries.
--   Feature Engineering: I Created new variables that may provide additional insights, such as Bp Category, 
+-   Feature Engineering: I Created new variables that may provide additional insights, such as Bp Category and age band   
 -   Normalization: Scale numerical fields like Sleep Duration, Physical Activity Level, and Heart Rate to ensure uniformity in the dataset.
 -   Handling Missing Values: Although this dataset does not appear to have missing values, though there was a replace value such as Normal to Normal Weight on BMI column
 
 ## Methodology
 ## Tools Used
 - Power Bi
-   i. Power Query Editor for Data cleanin
+   i. Power Query Editor for Data cleaning
   ii. Analysis
-iii. Visualization
+  iii. Visualization
 
 ## Data Visualization
 
@@ -58,7 +57,7 @@ iii. Visualization
 ### First Visualiation
 This dashboard provides a comprehensive analysis of occupation Analysis and sleep Disorder, focusing on daily steps, 
 quality of sleep, sleep disorders, and stress levels. 
-The key metrics is displayed using a card visual, cluster column chart and slicer
+The key metrics is displayed using a card visuals, cluster column charts and slicers
 *   Average Daily Steps: The population's daily step count averages 6.82K.
 *   Average Age: The age range centers around 42.18 years.
 *   Total Sample Size: 374 individuals across 11 different occupations.
@@ -78,7 +77,9 @@ a more focused analysis on specific demographics, supporting targeted health and
 
 ![tech dev8](https://github.com/user-attachments/assets/d0ab93a6-c05f-443f-901c-9c33c802f29a)
 
-![Uploading tech dev9.jpg…]()
+
+![tech dev9](https://github.com/user-attachments/assets/a132289e-ecf0-42d8-852e-7d99e649fe68)
+
 
 ### Second Visualiation
 This dashboard focuses on various health metrics, providing insights into sleep duration,quality of sleep, and the effects of different health factors such as BMI, blood pressure (BP), and stress levels on sleep quality.
@@ -91,10 +92,8 @@ with males generally experiencing lower sleep quality and higher stress levels c
 *   Age and Sleep Quality: Older adults report higher sleep quality (7.5hours) compared to middle-aged (7.3hours) and younger adults (6.16hours).
 *   BMI and Sleep Quality: The pie chart reveals that the majority of individuals are of normal weight, and 
 this group also tends to report higher sleep quality compared to overweight and obese categories.
-Blood Pressure and Sleep: Sleep quality varies slightly across BP categories, with those in the "Normal" category reporting
-the highest sleep quality (7.57).
-This dashboard can guide occupational health interventions by identifying a risk groups and patterns 
-associated with lifestyle-related health issues.
+Blood Pressure and Sleep: Sleep quality varies slightly across BP categories, with those in the "Normal Weight" category reporting the highest sleep quality (7.57).
+This dashboard can guide occupational health interventions by identifying a risk groups and patterns associated with lifestyle-related health issues.
  
 ## Conclusion
 -  High-stress roles, like Sales Representatives, show poorer sleep and health metrics, while roles like Engineering report better sleep quality.
@@ -113,7 +112,6 @@ Based on the analysis, the following recommendations can be made:
 -  Regular health checks, focusing on metrics like blood pressure and BMI, are essential, especially for those in high-stress or sedentary jobs. Monitoring these metrics helps identify early signs of sleep-related health issues, allowing for timely interventions that can improve sleep and general well-being.
 -  Develop personalized health and wellness plans tailored to each occupation to boost physical activity, manage stress, and promote healthy sleep practices, ensuring each occupational group receives support relevant to its unique lifestyle challenges.
 These recommendations aim to boost healthier lifestyle choices, improve sleep quality, and enhance well-being across various occupational groups, aligning with SDG Goal 3 – Good Health and Well-being.
-![image](https://github.com/user-attachments/assets/aa6d8707-ca35-4d5a-a18c-0b4368ceacb3)
 
 
 
