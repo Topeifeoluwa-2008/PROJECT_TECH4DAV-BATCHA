@@ -47,7 +47,13 @@ iii. Visualization
 
 ## Data Visualization
 
+![tech dev](https://github.com/user-attachments/assets/bd7129ca-85e3-4ab8-bb9d-f46e17e284b4)
 
+![tech dev3](https://github.com/user-attachments/assets/077790a2-3075-43b9-aabd-a945512a3a22)
+
+![tech dev4](https://github.com/user-attachments/assets/b6229298-7110-4b86-a33f-d376ef644f27)
+
+![tech dev5](https://github.com/user-attachments/assets/166ed11e-1abd-41ed-8d50-1f50adc5d838)
 
 ### First Visualiation
 This dashboard provides a comprehensive analysis of occupation Analysis and sleep Disorder, focusing on daily steps, 
@@ -63,6 +69,16 @@ engineers may experience greater sleep disturbances and stress levels compared t
 Additionally, heart rate data helps us analyze daily steps' variability, with spikes in step counts 
 suggesting patterns in physical activity. Filters for BMI categories, occupation, and age bands allow 
 a more focused analysis on specific demographics, supporting targeted health and wellness initiatives.
+
+![tech dev2](https://github.com/user-attachments/assets/23377c2e-c198-45b4-983d-68aa65dd27c7)
+
+![tech dev6](https://github.com/user-attachments/assets/fc11a18e-e077-48d6-bec9-36217a6cb971)
+
+![tech dev7](https://github.com/user-attachments/assets/2abca514-487c-4ca7-a48c-4107aadd2445)
+
+![tech dev8](https://github.com/user-attachments/assets/d0ab93a6-c05f-443f-901c-9c33c802f29a)
+
+![Uploading tech dev9.jpg…]()
 
 ### Second Visualiation
 This dashboard focuses on various health metrics, providing insights into sleep duration,quality of sleep, and the effects of different health factors such as BMI, blood pressure (BP), and stress levels on sleep quality.
@@ -88,9 +104,6 @@ associated with lifestyle-related health issues.
 -  Older adults and females report slightly better sleep quality, suggesting tailored wellness programs can improve outcomes.
 -  Sleep issues vary by occupation, with high-stress roles facing greater risks, highlighting the need for workplace support.
 This analysis summarily highlights the importance of targeted health interventions to improve sleep and well-being, tailored to the unique needs of each occupation. Addressing these lifestyle factors can lead to healthier, more productive workforces and support SDG Goal 3 – Good Health and Well-being.
-
-![Uploading image.png…]()
-
 
 ## Recommendations
 Based on the analysis, the following recommendations can be made: 
