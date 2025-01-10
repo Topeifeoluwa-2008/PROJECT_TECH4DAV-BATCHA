@@ -40,9 +40,10 @@ To ensure that the data is suitable for analysis, the following transformation s
 ## Methodology
 ## Tools Used
 - Power Bi
-   i. Power Query Editor for Data cleaning
-  ii. Analysis
-  iii. Visualization
+- (a)    Data Visualization
+  (b)    Power Query Editor for Data cleaning
+-   Data Analysis
+  
 
 ## Data Visualization
 
